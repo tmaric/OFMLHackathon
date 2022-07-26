@@ -49,7 +49,6 @@ Description
 #include "fvCFD.H"
 
 // libtorch-OpenFOAM data transfer
-#include "torchFunctions.C"
 #include "fileNameGenerator.H"
 
 using namespace Foam;
